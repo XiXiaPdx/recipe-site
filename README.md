@@ -2,7 +2,7 @@
 
 #### _Recipe Site, 3-06-2017_
 
-#### By _**Janek Brandt, Xi Xia, Cameron Jensen, Chris Finney**_
+#### By _**Janek Brandt, Xi Xia, Cameron Jensen, Chris Finney **_
 
 ## Description
 _This project is a website for managing recipes and creating a weekly meal plan which generates a shopping list based on the ingredients needed for the recipes._
